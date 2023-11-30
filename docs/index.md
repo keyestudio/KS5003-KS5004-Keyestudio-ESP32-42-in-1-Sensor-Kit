@@ -9,7 +9,7 @@ The 42 sensors and modules are fully compatible with the ESP32 ExpansionBoard. Y
 
 To make you master the electronic knowledge, detailed tutorials (Micropython), schematic diagrams, wiring methods and test code are included. Through these projects, you will have a better understanding about programming, logic and electronics.
 
-## 2. Kit
+## 2. Kit list
 
 (<span style="color: rgb(255, 76, 65);">Note:</span> KS5003 kit include ESP32 mainboard；KS5004 kit does‘t include ESP32 mainboard.)
 
