@@ -1,4 +1,4 @@
-# Arduino
+# Arduino tutorial
 
 ## 1. Get started with Arduino C: 
 

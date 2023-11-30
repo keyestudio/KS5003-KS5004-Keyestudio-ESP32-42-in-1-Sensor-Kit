@@ -1,4 +1,4 @@
-# Python
+# Python tutorial
 
 ## 1. Preparation for Python(Windows):
 
