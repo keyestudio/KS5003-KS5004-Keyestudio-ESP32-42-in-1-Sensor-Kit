@@ -2041,7 +2041,7 @@ When the sensor detects the smoke or combustible gas, the red LED lights up and 
 
 ### Project 28: MQ-3 Alcohol Sensor
 
-<img src="media/557f77458ef6346b2eff728d624bf8dd.png" style="zoom: 33%;" />
+![](media/557f77458ef6346b2eff728d624bf8dd.png)
 
 **Description**
 
@@ -2588,7 +2588,7 @@ Press “Ctrl+C”or click![](media/27451c8a9c13e29d02bc0f5831cfaf1f.png)“Stop
 
 ### Project 35: Ultrasonic Sensor
 
-<img src="media/8f99fc89502d1ae2543839b4950da5b6.jpeg" style="zoom:50%;" />
+![](media/8f99fc89502d1ae2543839b4950da5b6.jpeg)
 
 Bats and some marine animals are able to use high frequencies of sound for echolocation or communication. They can emit ultrasonic waves from the larynx through the mouth or nose and use the sound waves that bounce back to orient and determine the position, size and whether nearby objects are moving.
 
@@ -3591,7 +3591,7 @@ The previous projects are related to single sensor or module. In the following p
 
 ### Project 45: Button-controlled LED
 
-<img src="media/50740b22d16151d490b8494b0bff4f6e.jpeg" style="zoom:50%;" />
+![](media/50740b22d16151d490b8494b0bff4f6e.jpeg)
 
 **Overview**
 
@@ -4108,7 +4108,7 @@ Press “Ctrl+C”or click ![](media/27451c8a9c13e29d02bc0f5831cfaf1f.png)“Sto
 
 ### Project 54: Smoke Alarm
 
-<img src="media/a1f72c7aa7fd3609401a1f1176b426ec.jpeg" style="zoom:50%;" />
+![](media/a1f72c7aa7fd3609401a1f1176b426ec.jpeg)
 
 **Description**
 
